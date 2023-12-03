@@ -27,7 +27,7 @@ function App() {
       <header>
       <div className="header-left">
         <div className="logo">
-            <h1><img src='/images/logo.png' alt='logo' />YouTube</h1>
+            <h1><img src='/youtube/images/logo.png' alt='logo' />YouTube</h1>
         </div>
         </div>
         
